@@ -1,0 +1,10 @@
+Enhancing access security for Cisco routers
+
+
+Objective of the Lab:
+Apply basic configurations on the router, including IP Address and Static Route configuration.
+Ensure proper communication between the computers and the Router.
+Encrypt all passwords stored on the Router.
+Configure a security warning message displayed when accessing the router using a Login Warning Banner.
+Configure a Username and Password on the router and improve their security.
+Increase the security of Telnet access to the router.
